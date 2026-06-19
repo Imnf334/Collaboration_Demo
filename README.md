@@ -10,3 +10,6 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## features
 -feature 1 added: this improves code performance (20 percent better than before)
+
+
+new commit for conflict
