@@ -9,4 +9,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Submit a pull request
 
 ## features
--feature 1 added
+-feature 1 added: this improves code performance
